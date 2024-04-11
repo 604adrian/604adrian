@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 800 340" width="800" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div margin="0" padding="0" xmlns="http://www.w3.org/1999/xhtml">
     <style>
       .grid {
         display: grid;
@@ -48,7 +48,7 @@
       <span class="fa fa-star checked">★</span>
       <span class="fa fa-star checked">★</span>
       <p><q>It's okay to be awkward sometimes</q></p>
-      <figcaption> - My mom</figcaption>
+      <figcaption>— My mom</figcaption>
       </figure>
 
       <figure class="quote" id="second-box">
@@ -58,7 +58,7 @@
       <span class="fa fa-star checked">★</span>
       <span class="fa fa-star checked">★</span>
       <p><q>You have great hair... ohhh, yummy yummy</q></p>
-      <figcaption>- A random old lady, <cite>when I was visiting a seniors' home one time</cite></figcaption>
+      <figcaption>— A random old lady, <cite>when I was visiting a seniors' home one time</cite></figcaption>
       </figure>
 
       <figure class="quote" id="third-box">
@@ -67,9 +67,9 @@
       <span class="fa fa-star checked">★</span>
       <span class="fa fa-star checked">★</span>
       <span class="fa fa-star checked">★</span>
-      <p><q>...good student</q></p>
+      <p><q>...good student</q> (paraphrased)</p>
       <figcaption>
-      - An old college instructor, <cite>who wrote me a recommendation letter once</cite>
+      — An old college instructor, <cite>who wrote me a recommendation letter once</cite>
       </figcaption>
       </figure>
 
@@ -82,7 +82,7 @@
       <span class="fa fa-star">★</span>
       <p><q>Yeah... I don't think that's true</q></p>
       <figcaption>
-      - An old university professor, <cite>when I tried to contribute to the class discussion</cite>
+      — An old university professor, <cite>when I tried to contribute to the class discussion</cite>
       </figcaption>
       </figure>
     </div>

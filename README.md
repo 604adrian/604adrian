@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I make stuff with JavaScript
 ----------------------------
 
-I have a BA in Honours Philosophy from UBC. I graduated just under a year ago, and since then I have been teaching myself how to develop websites and web applications (HTML, CSS, JavaScript, ReactJS, React Native). I've become proficient in all the skills required of a competent front-end developer, but I'm still perfecting the art of the backend (currently focused on mastering Express and MongoDB).
+I have a BA in Honours Philosophy from UBC. I graduated just under a year ago, and since then I have been teaching myself how to develop websites and web applications (HTML5, CSS, JavaScript, ReactJS, React Native). I've become proficient in all the skills required of a competent front-end developer, but I'm still perfecting the art of the backend (currently focused on mastering Express and MongoDB).
 
 *   🌍  From Vancouver BC, moving to Winnipeg MB
 *   ✉️   You can contact me at [adrianzj@protonmail.com](mailto:adrianzj@protonmail.com)
