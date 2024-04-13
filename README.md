@@ -10,7 +10,7 @@ I have a BA in Honours Philosophy from UBC. I graduated just under a year ago, a
 
 *   🌍  From Vancouver BC, moving to Winnipeg MB
 *   ✉️  You can email me: [adrianzj@protonmail.com](mailto:adrianzj@protonmail.com)
-*   💬  Or message me on Signal: [sir_woggleth.87](https://signal.me/#eu/w-tn6kPo--_8uQXVfjn3C0d2AUTqPJlXlkAAeBM6rubr3f6PIytDjKKDOK8zAhd3)
+*   💬&nbsp; Or message me on Signal: [sir_woggleth.87](https://signal.me/#eu/w-tn6kPo--_8uQXVfjn3C0d2AUTqPJlXlkAAeBM6rubr3f6PIytDjKKDOK8zAhd3)
 *   🧠  I'm learning MySQL
 *   🤝  I'm open to collaborating on websites, online games
 *   ⚡  I can play *Somewhere Over the Rainbow* on the ukulele
