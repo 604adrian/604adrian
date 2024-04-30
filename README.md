@@ -2,7 +2,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian Jones
 ====================================================================================================================================
-I am not a fan of self promotion. It makes me feel like I'm selling my soul. So rather than flattering myself by telling you all the reasons why I'm super cool and you should work with me, I'll try to paint a more balanced picture.
+I am not a fan of excessive self-promotion. It makes me feel like I'm selling my soul. So rather than flattering myself by telling you all the reasons why I'm super cool and you should work with me, I'll try to paint a more balanced picture.
 
 To start, here are some _unflattering_ facts about me:
 *  🎾 I have been told that my hand-eye coordination is underdeveloped
