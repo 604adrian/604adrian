@@ -2,9 +2,7 @@
 
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
-Welcome to my GitHub profile. My name is Adrian Jones and I make stuff with JavaScript.
-
-Message me on [Signal](https://signal.me/#eu/w-tn6kPo--_8uQXVfjn3C0d2AUTqPJlXlkAAeBM6rubr3f6PIytDjKKDOK8zAhd3)
+Welcome to my GitHub profile. My name is Adrian Jones.
 
 Reviews of Adrian
 =================
